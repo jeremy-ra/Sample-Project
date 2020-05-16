@@ -1,11 +1,10 @@
 
 -------------------------------------------------------------------
 --RUN ONLY ONCE
---AFTER DB CREATION AND TABLE, RUN SCRIPT FOR SAMPLE DATA GENERATION
+--DB CREATION AND TABLE
 --------------------------------------------------------------------
 --Create Database--
---1. 
-   CREATE DATABASE TestDB2; 
+--1. CREATE DATABASE TestDB2; 
 
 
 --2 .Create Tables--
